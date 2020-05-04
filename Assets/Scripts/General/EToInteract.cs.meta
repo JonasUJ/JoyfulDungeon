@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ddfaa836226a5784d97ad61b01b458a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Esprite: {fileID: 2819862684400192912, guid: 233c4bdd9e47db346813ad73d697456a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

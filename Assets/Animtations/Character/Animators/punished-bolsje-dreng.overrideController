@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: punished-bolsje-dreng
+  m_Controller: {fileID: 9100000, guid: 94fa90f2d30642340adfc0340f3fee88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 25d2d71d8f81fd24dbe4a2e125e770f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fead0b8a82976024188f06678a5793da, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 21201f170315290448763d6ad6bcd534, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a38921ab8ea664e41b135d030cf192dc, type: 2}
